@@ -17,6 +17,8 @@ Our primary motivation was to create a model that would take a holistic approach
 *   **Modern Portfolio Theory (MPT):** Implementation of MPT to optimize portfolio allocation for various risk levels, utilizing integer programming for realistic stock selection and allocation.
 *   **Investment Strategies:** Simulation of Buy-and-Hold, Daily Rebalance, Weekly Rebalance, and Monthly Rebalance strategies to analyze the effect of different rebalancing frequencies on portfolio returns.
 *   **Monte Carlo Simulation:** Use of Monte Carlo simulations to evaluate the portfolio, generate a distribution of returns and determine the probability of loss in a live market scenario.
+![Efficient Frontier showing optimal portfolios for different risk levels.](https://github.com/user-attachments/assets/7ec80fc7-61c7-47f6-9f13-83cd21ad86b5)
+
 
 ## Files
 
