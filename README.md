@@ -14,10 +14,17 @@ Our primary motivation was to create a model that would take a holistic approach
 ## Key Features
 
 *   **Data Preparation:** Retrieval of real-world stock data and identification of high-performing stocks per sector. Data was analyzed and organized to best perform analysis.
+*   ![Normalized performance of top stocks per sector (2017–2022).](https://github.com/user-attachments/assets/bf9ea2d5-8fe3-4bd2-b505-c1a36c33c903)
+
 *   **Modern Portfolio Theory (MPT):** Implementation of MPT to optimize portfolio allocation for various risk levels, utilizing integer programming for realistic stock selection and allocation.
+*   ![Efficient Frontier showing optimal portfolios for different risk levels.](https://github.com/user-attachments/assets/7ec80fc7-61c7-47f6-9f13-83cd21ad86b5)
+
 *   **Investment Strategies:** Simulation of Buy-and-Hold, Daily Rebalance, Weekly Rebalance, and Monthly Rebalance strategies to analyze the effect of different rebalancing frequencies on portfolio returns.
+*    ![Portfolio value over time for Buy-and-Hold vs. rebalancing strategies.](https://github.com/user-attachments/assets/438a8930-e498-42f3-906e-0e3a00877e1e)
+
 *   **Monte Carlo Simulation:** Use of Monte Carlo simulations to evaluate the portfolio, generate a distribution of returns and determine the probability of loss in a live market scenario.
-![Efficient Frontier showing optimal portfolios for different risk levels.](https://github.com/user-attachments/assets/7ec80fc7-61c7-47f6-9f13-83cd21ad86b5)
+*   ![Density plot of portfolio returns with fitted normal distribution.](https://github.com/user-attachments/assets/4fb20bc2-4e9b-4d44-beb9-2a351ebca157)
+
 
 
 ## Files
